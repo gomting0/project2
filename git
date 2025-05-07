@@ -1,0 +1,15 @@
+# 파이썬/노드/환경 관련
+__pycache__/
+*.pyc
+node_modules/
+.env
+.DS_Store
+
+# 이미지 등 불필요한 파일
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.zip
+*.exe
+.env
